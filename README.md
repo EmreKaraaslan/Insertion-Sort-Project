@@ -1,4 +1,4 @@
-# Insertion Sort Projesi
+# Insertion Sort Project
 
 1.Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 >
